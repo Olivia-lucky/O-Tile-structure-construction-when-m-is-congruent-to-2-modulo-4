@@ -1,0 +1,44 @@
+The value of m is: 6
+The value of p is: 5
+The side length of 2 * 2 tiles is: {3}
+The column indices of 1 * 2 tiles are: {5i+1, 5i+2} for 0<=i<=m-1.
+1 4 4 1 14 15 
+5 5 2 13 14 2 
+6 3 12 13 3 6 
+1 11 12 1 7 7 
+10 11 2 8 8 2 
+10 3 9 9 3 15 
+
+The value of m is: 6
+The value of p is: 5
+The side length of 2 * 2 tiles is: {3}
+The column indices of 1 * 2 tiles are: {5i+1, 5i+5} for 0<=i<=m-1.
+1 4 12 1 14 4 
+5 11 2 13 5 2 
+10 3 12 6 3 6 
+1 11 7 1 7 15 
+10 8 2 8 14 2 
+9 3 9 13 3 15 
+
+The value of m is: 6
+The value of p is: 5
+The side length of 2 * 2 tiles is: {3}
+The column indices of 1 * 2 tiles are: {5i+2, 5i+4} for 0<=i<=m-1.
+1 11 4 1 4 15 
+10 5 2 5 14 2 
+6 3 6 13 3 15 
+1 7 12 1 14 7 
+8 11 2 13 8 2 
+10 3 12 9 3 9 
+
+The value of m is: 6
+The value of p is: 5
+The side length of 2 * 2 tiles is: {3}
+The column indices of 1 * 2 tiles are: {5i+4, 5i+5} for 0<=i<=m-1.
+1 11 12 1 4 4 
+10 11 2 5 5 2 
+10 3 6 6 3 15 
+1 7 7 1 14 15 
+8 8 2 13 14 2 
+9 3 12 13 3 9 
+
